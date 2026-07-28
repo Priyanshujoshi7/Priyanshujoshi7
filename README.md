@@ -79,7 +79,7 @@ If you're building something interesting, feel free to reach out.
 
 📫 Connect with Me
 
-LinkedIn: [https://www.linkedin.com/in/your-link-here]((https://www.linkedin.com/in/priyanshujoshi2495/))]
+LinkedIn: [(https://www.linkedin.com/in/priyanshujoshi2495/)]((https://www.linkedin.com/in/priyanshujoshi2495/))]
 
 ---
 
